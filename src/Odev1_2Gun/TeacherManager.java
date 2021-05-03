@@ -1,4 +1,4 @@
-package Odev1;
+package Odev1_2Gun;
 
 public class TeacherManager {
 	public void add(Teacher teacher){
