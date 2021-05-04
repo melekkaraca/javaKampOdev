@@ -17,7 +17,7 @@ public class Main {
 		customer.setId(1);
 		customer.setFirstName("Melek");
 		customer.setLastName("Karaca");
-		customer.setNationalityId(Long.valueOf("13291376518"));
+		customer.setNationalityId(Long.valueOf("12345678910"));
 		customer.setDateOfBrith(LocalDate.of(1988,04,23));
 		
 		customerManager.Save(customer);
