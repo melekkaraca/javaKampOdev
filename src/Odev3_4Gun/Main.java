@@ -21,7 +21,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		customerOperations();
 		gameOperations();
-		saleOperations();
+		saleOperations();  
 	}
 	public static void customerOperations() {
 		//e-devlet sistemi doðrulama testi için þimdilik 18 yaþýnda  büyükse true dönüyor
