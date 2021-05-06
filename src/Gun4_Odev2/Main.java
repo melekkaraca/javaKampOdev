@@ -2,11 +2,11 @@ package Gun4_Odev2;
 
 import java.time.LocalDate;
 
-import Odev2_4Gun.Abcstract.BaseCustomerManager;
-import Odev2_4Gun.Adapters.MernisServiceAdapter;
-import Odev2_4Gun.Concrete.NeroCustomerManager;
-import Odev2_4Gun.Concrete.StarbucksCustomerManager;
-import Odev2_4Gun.Entities.Customer;
+import Gun4_Odev2.Abcstract.BaseCustomerManager;
+import Gun4_Odev2.Adapters.MernisServiceAdapter;
+import Gun4_Odev2.Concrete.NeroCustomerManager;
+import Gun4_Odev2.Concrete.StarbucksCustomerManager;
+import Gun4_Odev2.Entities.Customer;
 
 public class Main {
 
