@@ -1,4 +1,4 @@
-package Odev1_2Gun;
+package Gun2_Odev1;
 
 public class Teacher {
 	public Teacher() {
