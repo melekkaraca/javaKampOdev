@@ -1,4 +1,4 @@
-package Odev2_4Gun;
+package Gun4_Odev2;
 
 import java.time.LocalDate;
 
