@@ -1,4 +1,4 @@
-package Odev2_3Gun;
+package Gun3_Odev2;
 
 public class StudentManager extends UserManager{
 	public void buyCourse(User user) {
